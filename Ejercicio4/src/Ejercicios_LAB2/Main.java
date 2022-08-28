@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	    String nombre="Franco";
         int edad=22;
-        double salario= 11999.99;
+        double salario= 1000004.99;
         boolean carnet=true;
     }
 }
